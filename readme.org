@@ -1,0 +1,9 @@
+To see the bug:
+
+1. Run the fighweel build:
+  #+begin_src shell
+  $ npm install
+  $ lein fig
+  #+end_src
+
+2. Navigate to http://localhost:9500.
