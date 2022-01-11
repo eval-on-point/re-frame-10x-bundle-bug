@@ -2,7 +2,7 @@
   :dependencies [[org.clojure/clojure "1.10.1"]
                  [org.clojure/clojurescript "1.10.879"]
                  [re-frame "1.2.0"]
-                 [reagent "0.10.0"
+                 [reagent "1.1.0"
                   :exclusions [cljsjs/react
                                cljsjs/react-dom
                                cljsjs/react-dom-server]]]
